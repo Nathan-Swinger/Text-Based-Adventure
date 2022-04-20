@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631464879 source:c:\users\natha\desktop\c++ projects\text based adventure game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
